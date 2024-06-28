@@ -112,7 +112,7 @@
     <maven.cleanup.plugin.version>3.3.2</maven.cleanup.plugin.version>
     <sonar.maven.plugin.version>3.11.0.3922</sonar.maven.plugin.version>
     <jacoco.maven.plugin.version>0.8.12</jacoco.maven.plugin.version>
-    <nexus-staging.plugin.version>1.6.13</nexus-staging.plugin.version>
+    <nexus-staging.plugin.version>1.7.0</nexus-staging.plugin.version>
     <!--alibaba p3c-->
     <alibaba.p3c.version>2.1.1</alibaba.p3c.version>
     <google.gson.version>2.10.1</google.gson.version>
